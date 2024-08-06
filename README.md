@@ -2,4 +2,4 @@
 
 
 
-![](curry.jpg)
+<img src="img/curry.jpg" alt="">
