@@ -19,6 +19,13 @@
 ##### git stash - Salva as mudanças não commitadas temporariamente para limpar o diretório de trabalho
 ##### git stash apply - Restaura as mudanças salvas pelo comando git stash
 ##### git log > vê o histórico de commit
+##### Passos para fazer um pull request
+##### 1 - Abrir o repositório;
+##### 2 - Ir na aba Pull Request;
+##### 3 - Clicar em New Pull Request;
+##### 4 - Selecionar a Branch;
+##### 5 - Clicar em Create Pull Request;
+##### 6 - Fazer um Merge;
 
 <div style='display: flex; justify-content: center; margin-top: 35px'>
 <img src="img/curry.jpg" alt="">
